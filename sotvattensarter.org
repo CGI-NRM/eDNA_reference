@@ -1,4 +1,4 @@
-* Databas över fiskarter som finns i sötvatten
+* Fiskarter som finns i svenska vatten
 För att effektivt kunna artbestämma fiskarter från sekvensdata är det
 enkelt att ha en databas med alla arter som förekommer i svenska
 vatten. Denna tabell innehåller de sötvattensarter som finns
@@ -9,15 +9,16 @@ upplösningen över korta bitar ofta inte tillräckligt bra och de flesta
 beskrivna metoder som använder ngs data använder 12s eller 16s. 
 
 I tabellen står MT för fullständigt mtgenome i refseq eller ncbi. För
-de som saknar mt har de tre vanligaste barcode generna extraherats och
-det är accessioner till dessa som presenteras.
+de som saknar mt har de tre vanligaste streck-kodningsgenerna extraherats och
+det är accessioner till dessa som presenteras i tabellerna.
 
 Tyvärr är inte alla accessioner från artbestämda specimen och för
 dessa kan det kräva att man tittar på fler accessioner än de som
 presenteras här. 
 
-
 ** Sötvatten
+
+
 | Art                                                  | Svenskt namn     | Frekvens                              | MT        | CO1      | 12sRNA   | 16sRNA   |
 |------------------------------------------------------+------------------+---------------------------------------+-----------+----------+----------+----------|
 | Anguilla anguilla                                    | Ål               | Vanlig                                | [[https://www.ncbi.nlm.nih.gov/nuccore/56692312][NC_006531]] |          |          |          |
@@ -70,6 +71,9 @@ presenteras här.
 |------------------------------------------------------+------------------+---------------------------------------+-----------+----------+----------+----------|
 
 Notera att både för hornsimpa och rysk simpa finns det inga genetiska data och den sistnämnda råder viss tveksamhet kring om den ska ses som en egen
-art.
+art. Det är troligt att flera av dessa simpor är extremt lika varandra på genetisk nivå och eventuellt är det inte fixerade skillnader mellan arterna.
 
-** Ekologisk information
+*** Ekologisk information
+
+** Saltvattenarter
+
