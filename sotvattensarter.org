@@ -2,19 +2,40 @@
 För att effektivt kunna artbestämma fiskarter från sekvensdata är det
 enkelt att ha en databas med alla arter som förekommer i svenska
 vatten. Denna tabell innehåller de sötvattensarter som finns
-registrerade i svenska vatten.
+registrerade från svenska vatten.
 
 Den markör som finns beskriven i flest arter är CO1, men tyvärr är
 upplösningen över korta bitar ofta inte tillräckligt bra och de flesta
-beskrivna metoder som använder ngs data använder 12s eller 16s. 
+beskrivna metoder som använder ngs data använder oftast 12s eller 16s.
 
 I tabellen står MT för fullständigt mtgenome i refseq eller ncbi. För
-de som saknar mt har de tre vanligaste streck-kodningsgenerna extraherats och
-det är accessioner till dessa som presenteras i tabellerna.
+de som saknar mt har de tre vanligaste streck-kodningsgenerna
+extraherats och det är accessioner till dessa som presenteras i
+tabellerna.
 
 Tyvärr är inte alla accessioner från artbestämda specimen och för
 dessa kan det kräva att man tittar på fler accessioner än de som
-presenteras här. 
+presenteras här.
+
+Andra viktiga saker att ta hänsyn till är att hybridisering mellan
+arter inte kan detekteras med mtDNA sekvens. Det finns beskrivna
+hybrider mellan:
+
+- Abramis brama X Blicca bjoerkna
+- Abramis brama X Rutilus rutilus
+- Abramis brama X Scardinius erythrophthalmus
+- Abramis brama X Alburnus alburnus
+- Scardinius erythrophtalmus X Rutilus rutilus
+- Scardinius erythrophtalmus X Blicca bjoerkna
+- Leuciscus idus X Aspius aspius
+- Leuciscus idus X Squalius cephalus
+- Cottus poecilopus X Cottus gobio
+
+Några av dessa är antagligen int eså vanliga in naturliga vattendrag
+och kan även ha sitt ursprung i hur svårt det är att särskilja vissa
+arter (ffa som juveniler). Det är dock så att man skall tolka
+sekvensdata från mitokondrien med denna information i
+bakhuvudet.
 
 ** Sötvatten
 
@@ -71,8 +92,21 @@ presenteras här.
 | Sander lucioperca                                    | Gös              | Vanlig                                | [[https://www.ncbi.nlm.nih.gov/nuccore/761546222][NC_026533]] |          |          |          |
 |------------------------------------------------------+------------------+---------------------------------------+-----------+----------+----------+----------|
 
-Notera att både för hornsimpa och rysk simpa finns det inga genetiska data och den sistnämnda råder viss tveksamhet kring om den ska ses som en egen
-art. Det är troligt att flera av dessa simpor är extremt lika varandra på genetisk nivå och eventuellt är det inte fixerade skillnader mellan arterna.
+Notera att både för hornsimpa och rysk simpa finns det inga genetiska
+data och den sistnämnda råder viss tveksamhet kring om den ska ses som
+en egen art. Det är troligt att flera av dessa simpor är extremt lika
+varandra på genetisk nivå och eventuellt är det inte fixerade
+skillnader mellan arterna.
+ 
+Notera att frekvens är inte baserade på undersökningar utan mer ett
+försök till sammanställning av den kunskap som finns om olika
+arter. Tittar man mer i detalj på distribution of frekvens av arter
+över olika delar kan man skapa goda kunskaper om vilka arter man
+förväntar sig att hitta från vattenprover. Det är till exempel inte så
+troligt med stora mängder harr i vatten från skåne.
+
+
+
 
 *** Ekologisk information
 
