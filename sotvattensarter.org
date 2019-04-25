@@ -15,82 +15,82 @@ tabellerna.
 
 Tyvärr är inte alla accessioner från artbestämda specimen och för
 dessa kan det kräva att man tittar på fler accessioner än de som
-presenteras här.
+presenteras här. Vidare finns det ett stort antal felaktiga sekvenser
+och eller felbestämda arter i publika databaser,
 
 Andra viktiga saker att ta hänsyn till är att hybridisering mellan
 arter inte kan detekteras med mtDNA sekvens. Det finns beskrivna
 hybrider mellan:
 
-- Abramis brama X Blicca bjoerkna
-- Abramis brama X Rutilus rutilus
-- Abramis brama X Scardinius erythrophthalmus
-- Abramis brama X Alburnus alburnus
-- Scardinius erythrophtalmus X Rutilus rutilus
-- Scardinius erythrophtalmus X Blicca bjoerkna
-- Leuciscus idus X Aspius aspius
-- Leuciscus idus X Squalius cephalus
-- Cottus poecilopus X Cottus gobio
+- _Abramis brama_ X _Blicca bjoerkna_
+- _Abramis brama_ X _Rutilus rutilus_
+- _Abramis brama_ X _Scardinius erythrophthalmus_
+- _Abramis brama_ X _Alburnus alburnus_
+- _Scardinius erythrophtalmus_ X _Rutilus rutilus_
+- _Scardinius erythrophtalmus_ X _Blicca bjoerkna_
+- _Leuciscus idus_ X _Leuciscus aspius_
+- _Leuciscus idus_ X _Squalius cephalus_
+- _Cottus poecilopus_ X _Cottus gobio_
 
-Några av dessa är antagligen int eså vanliga in naturliga vattendrag
+Några av dessa är antagligen inte så vanliga in naturliga vattendrag
 och kan även ha sitt ursprung i hur svårt det är att särskilja vissa
-arter (ffa som juveniler). Det är dock så att man skall tolka
-sekvensdata från mitokondrien med denna information i
+arter (framför allt juvenila exemplar). Det är dock så att man skall
+tolka sekvensdata från mitokondrien med denna information i
 bakhuvudet.
 
 ** Sötvatten
 
-
-| Art                                                  | Svenskt namn     | Frekvens                              | MT        | CO1      | 12sRNA   | 16sRNA   |
-|------------------------------------------------------+------------------+---------------------------------------+-----------+----------+----------+----------|
-| Anguilla anguilla                                    | Ål               | Vanlig                                | [[https://www.ncbi.nlm.nih.gov/nuccore/56692312][NC_006531]] |          |          |          |
-| Abramis brama                                        | Braxen           | Mycket vanlig                         | [[https://www.ncbi.nlm.nih.gov/nuccore/452849815][NC_020356]] |          |          |          |
-| Alburnus alburnus                                    | Löja             | Mycket vanlig                         | [[https://www.ncbi.nlm.nih.gov/nuccore/119360276][NC_008659]] |          |          |          |
-| Aspius aspius                                        | Asp              | Ovanlig                               |           | [[https://www.ncbi.nlm.nih.gov/nuccore/MF135898.1][MF135898]] |finns CGI          | [[https://www.ncbi.nlm.nih.gov/nuccore/KJ128706.1][KJ128706]] |
-| Ballerus ballerus                                    | Faren            | Ovanlig                               |           | [[https://www.ncbi.nlm.nih.gov/nuccore/KM286461.1][KM286461]] |Ligger i pipen          | [[https://www.ncbi.nlm.nih.gov/nuccore/KJ128677.1][KJ128677]] |
-| Blicca bjoerkna                                      | Björkna          | Vanlig                                | [[https://www.ncbi.nlm.nih.gov/nuccore/452849801][NC_020355]] |          |          |          |
-| Carassius carassius                                  | Ruda             | Mycket vanlig                         | [[https://www.ncbi.nlm.nih.gov/nuccore/52221010][NC_006291]] |          |          |          |
-| Carassius gibelio                                    | Silverruda       | Sällsynt, enbart gotland, utplanterad | [[https://www.ncbi.nlm.nih.gov/nuccore/NC_014177.1][NC_014177]] |          |          |          |
-| Ctenopharyngodon idella                              | Gräskarp         | Ovanlig, utplanterad                  | [[https://www.ncbi.nlm.nih.gov/nuccore/NC_010288.1][NC_010288]] |          |          |          |
-| Cyprinus carpio                                      | Karp             | Ovanlig, utplanterat ursprung         | [[https://www.ncbi.nlm.nih.gov/nuccore/NC_001606.1][NC_001606]] |          |          |          |
-| Gobio gobio                                          | Sandkrypare      | Sällsynt, enbart skåne                | [[https://www.ncbi.nlm.nih.gov/nuccore/119360191][NC_008662]] |          |          |          |
-| Lampetra sp. (fluviatilis/planeri)                   | Nejonöga         | Vanlig                                | [[https://www.ncbi.nlm.nih.gov/nuccore/NC_001131.1][NC_001131]] |          |          |          |
-| Leucaspius delineatus                                | Groplöja         | Sällsynt, enbart skåne                | [[https://www.ncbi.nlm.nih.gov/nuccore/452849829][NC_020357]] |          |          |          |
-| Leuciscus idus                                       | Id               | Mycket vanlig                         | [[https://www.ncbi.nlm.nih.gov/nuccore/KF913024.1][KF913024]]  |          |          |          |
-| Leuciscus leuciscus                                  | Stäm             | Vanlig                                |           | [[https://www.ncbi.nlm.nih.gov/nuccore/HQ961025.1][HQ961025]] | [[https://www.ncbi.nlm.nih.gov/nuccore/LC193197.1][LC193197]] | [[https://www.ncbi.nlm.nih.gov/nuccore/DQ664293.1][DQ664293]] |
-| Pelecus cultratus                                    | Skärkniv         | Sällsynt                              | [[https://www.ncbi.nlm.nih.gov/nuccore/AB239597.1][AB239597]]  |          |          |          |
-| Phoxinus phoxinus                                    | Elritsa          | Mycket vanlig                         | [[https://www.ncbi.nlm.nih.gov/nuccore/NC_020358.1][NC_020358]] |          |          |          |
-| Rutilus rutilus                                      | Mört             | Mycket vanlig                         |           | [[https://www.ncbi.nlm.nih.gov/nuccore/KT989767.1][KT989767]] | [[https://www.ncbi.nlm.nih.gov/nuccore/FJ710983.1][FJ710983]] | [[https://www.ncbi.nlm.nih.gov/nuccore/KR476966.1][KR476966]] |
-| Scardinius erythrophthalmus                          | Sarv             | Vanlig                                | [[https://www.ncbi.nlm.nih.gov/nuccore/1088478653][NC_031561]] |          |          |          |
-| Squalius cephalus                                    | Färna            | Ovanlig                               | [[https://www.ncbi.nlm.nih.gov/nuccore/1088476971][NC_031540]] |          |          |          |
-| Tinca tinca                                          | Sutare           | Vanlig                                | [[https://www.ncbi.nlm.nih.gov/nuccore/119360205][NC_008648]] |          |          |          |
-| Vimba vimba                                          | Vimma            | Ovanlig                               |           | [[https://www.ncbi.nlm.nih.gov/nuccore/GQ279765.1][GQ279765]] | Finns CGI         | [[https://www.ncbi.nlm.nih.gov/nuccore/KR476984.1][KR476984]] |
-| Cobitis taenia                                       | Nissöga          | Ovanlig                               |           | [[https://www.ncbi.nlm.nih.gov/nuccore/AY940214.1][AY940214]] | [[https://www.ncbi.nlm.nih.gov/nuccore/LC146128.1][LC146128]] | [[https://www.ncbi.nlm.nih.gov/nuccore/KR476925.1][KR476925]] |
-| Barbatula barbatula                                  | Grönling         | Ovanlig                               | [[https://www.ncbi.nlm.nih.gov/nuccore/827046422][NC_027192]] |          |          |          |
-| Silurus glanis                                       | Mal              | Sällsynt                              | [[https://www.ncbi.nlm.nih.gov/nuccore/299823648][NC_014261]] |          |          |          |
-| Osmerus eperlanus                                    | Nors             | Vanlig                                |           | [[https://www.ncbi.nlm.nih.gov/nuccore/EU492321.1][EU492321]] | [[https://www.ncbi.nlm.nih.gov/nuccore/KC441957.1][KC441957]] | [[https://www.ncbi.nlm.nih.gov/nuccore/KJ128848.1][KJ128848]] |
-| Coregonus albula                                     | Siklöja          | Vanlig                                |           | [[https://www.ncbi.nlm.nih.gov/nuccore/JN003217.1][JN003217]] |          | [[https://www.ncbi.nlm.nih.gov/nuccore/KJ128749.1][KJ128749]] |
-| Coregonus maraena                                    | Sik              | Mycket vanlig                         |           | [[https://www.ncbi.nlm.nih.gov/nuccore/HQ960667.1][HQ960667]] |          | [[https://www.ncbi.nlm.nih.gov/nuccore/KJ128747.1][KJ128747]] |
-| Oncorhynchus clarkii                                 | Strupsnittsöring | Enstaka fynd                          | [[https://www.ncbi.nlm.nih.gov/nuccore/NC_006897.1][NC_006897]] |          |          |          |
-| Oncorhynchus mykiss                                  | Regnbåge         | Vanlig, endast utplanterad            | [[https://www.ncbi.nlm.nih.gov/nuccore/5835261][NC_001717]] |          |          |          |
-| Oncorhynchus nerka                                   | Indianlax        | Enstaka fynd                          | [[https://www.ncbi.nlm.nih.gov/nuccore/118722289][NC_008615]] |          |          |          |
-| Salmo salar                                          | Lax              | Vanlig ffa i strömmande vatten        | [[https://www.ncbi.nlm.nih.gov/nuccore/NC_001960.1][NC_001960]] |          |          |          |
-| Salmo trutta                                         | Öring            | Mycket vanlig                         | [[https://www.ncbi.nlm.nih.gov/nuccore/NC_024032.1][NC_024032]] |          |          |          |
-| Salvelinus alpinus                                   | Röding           | Vanlig, ffa i norr                    | [[https://www.ncbi.nlm.nih.gov/nuccore/5835904][NC_000861]] |          |          |          |
-| Salvelinus fontinalis                                | Bäckröding       | Ovanlig, utplanterat ursprung         | [[https://www.ncbi.nlm.nih.gov/nuccore/NC_000860.1][NC_000860]] |          |          |          |
-| Salvelinus namaycush                                 | Kanadaröding     | Ovanlig, utplanterat urpsprung        | [[https://www.ncbi.nlm.nih.gov/nuccore/1299048865][NC_036392]] |          |          |          |
-| Thymallus thymallus                                  | Harr             | Vanlig, men endast i norr             | [[https://www.ncbi.nlm.nih.gov/nuccore/NC_012928.1][NC_012928]] |          |          |          |
-| Esox lucius                                          | Gädda            | Mycket vanlig                         | [[https://www.ncbi.nlm.nih.gov/nuccore/28881913][NC_004593]] |          |          |          |
-| Lota lota                                            | Lake             | Mycket vanlig                         | [[https://www.ncbi.nlm.nih.gov/nuccore/25057214][NC_004379]] |          |          |          |
-| Gasteroteus aculeatus                                | Storspigg        | Vanlig                                | [[https://www.ncbi.nlm.nih.gov/nuccore/NC_027435.1][NC_027435]] |          |          |          |
-| Pungitius pungitius                                  | Småspigg         | Vanlig                                | [[https://www.ncbi.nlm.nih.gov/nuccore/212725480][NC_011571]] |          |          |          |
-| Cottus gobio                                         | Stensimpa        | Mycket vanlig                         |           | [[https://www.ncbi.nlm.nih.gov/nuccore/EF416976.1][EF416976]] | [[https://www.ncbi.nlm.nih.gov/nuccore/AB188189.1][AB188189]] | [[https://www.ncbi.nlm.nih.gov/nuccore/KR476928.1][KR476928]] |
-| Cottus koshewnikowi                                  | Rysk simpa       | Ovanlig och endast i norr?            |           |          |          |          |
-| Cottus poecilopus                                    | Bergsimpa        | Vanlig                                | [[https://www.ncbi.nlm.nih.gov/nuccore/317097043][NC_014849]] |          |          |          |
-| Myoxocephalus quadricornis (Tripgopsis quadricornis) | Hornsimpa        | Ganska vanlig, kallvattenfisk         |           | [[https://www.ncbi.nlm.nih.gov/nuccore/KJ128649.1][KJ128649]] | Ligger i pipen         | [[https://www.ncbi.nlm.nih.gov/nuccore/KJ128933.1][KJ128933]] |
-| Gymnocephalus cernua                                 | Gärs             | Mycket vanlig                         | [[https://www.ncbi.nlm.nih.gov/nuccore/726972651][NC_025785]] |          |          |          |
-| Perca fluviatilis                                    | Abborre          | Mycket vanlig                         | [[https://www.ncbi.nlm.nih.gov/nuccore/751868550][NC_026313]] |          |          |          |
-| Sander lucioperca                                    | Gös              | Vanlig                                | [[https://www.ncbi.nlm.nih.gov/nuccore/761546222][NC_026533]] |          |          |          |
-|------------------------------------------------------+------------------+---------------------------------------+-----------+----------+----------+----------|
+| Art                                                  | Svenskt namn     | Frekvens                              | MT        | CO1      | 12sRNA                     | 16sRNA   |
+|------------------------------------------------------+------------------+---------------------------------------+-----------+----------+----------------------------+----------|
+| Anguilla anguilla                                    | Ål               | Vanlig                                | [[https://www.ncbi.nlm.nih.gov/nuccore/56692312][NC_006531]] |          |                            |          |
+| Abramis brama                                        | Braxen           | Mycket vanlig                         | [[https://www.ncbi.nlm.nih.gov/nuccore/452849815][NC_020356]] |          |                            |          |
+| Alburnus alburnus                                    | Benlöja          | Mycket vanlig                         | [[https://www.ncbi.nlm.nih.gov/nuccore/119360276][NC_008659]] |          |                            |          |
+| Leuciscus aspius (Aspius aspius)                     | Asp              | Ovanlig                               |           | [[https://www.ncbi.nlm.nih.gov/nuccore/MF135898.1][MF135898]] | Finns hos CGI              | [[https://www.ncbi.nlm.nih.gov/nuccore/KJ128706.1][KJ128706]] |
+| Ballerus ballerus                                    | Faren            | Ovanlig                               |           | [[https://www.ncbi.nlm.nih.gov/nuccore/KM286461.1][KM286461]] | Under utveckling hos CGI   | [[https://www.ncbi.nlm.nih.gov/nuccore/KJ128677.1][KJ128677]] |
+| Blicca bjoerkna                                      | Björkna          | Vanlig                                | [[https://www.ncbi.nlm.nih.gov/nuccore/452849801][NC_020355]] |          |                            |          |
+| Carassius carassius                                  | Ruda             | Mycket vanlig                         | [[https://www.ncbi.nlm.nih.gov/nuccore/52221010][NC_006291]] |          |                            |          |
+| Carassius gibelio                                    | Silverruda       | Sällsynt, enbart gotland, utplanterad | [[https://www.ncbi.nlm.nih.gov/nuccore/NC_014177.1][NC_014177]] |          |                            |          |
+| Ctenopharyngodon idella                              | Gräskarp         | Ovanlig, utplanterad                  | [[https://www.ncbi.nlm.nih.gov/nuccore/NC_010288.1][NC_010288]] |          |                            |          |
+| Cyprinus carpio                                      | Karp             | Ovanlig, utplanterat ursprung         | [[https://www.ncbi.nlm.nih.gov/nuccore/NC_001606.1][NC_001606]] |          |                            |          |
+| Gobio gobio                                          | Sandkrypare      | Sällsynt, enbart skåne                | [[https://www.ncbi.nlm.nih.gov/nuccore/119360191][NC_008662]] |          |                            |          |
+| Lampetra sp. (fluviatilis/planeri)                   | Nejonöga         | Vanlig                                | [[https://www.ncbi.nlm.nih.gov/nuccore/NC_001131.1][NC_001131]] |          |                            |          |
+| Leucaspius delineatus                                | Groplöja         | Sällsynt, enbart skåne                | [[https://www.ncbi.nlm.nih.gov/nuccore/452849829][NC_020357]] |          |                            |          |
+| Leuciscus idus                                       | Id               | Mycket vanlig                         | [[https://www.ncbi.nlm.nih.gov/nuccore/KF913024.1][KF913024]]  |          |                            |          |
+| Leuciscus leuciscus                                  | Stäm             | Vanlig                                |           | [[https://www.ncbi.nlm.nih.gov/nuccore/HQ961025.1][HQ961025]] | [[https://www.ncbi.nlm.nih.gov/nuccore/LC193197.1][LC193197]]                   | [[https://www.ncbi.nlm.nih.gov/nuccore/DQ664293.1][DQ664293]] |
+| Pelecus cultratus                                    | Skärkniv         | Sällsynt                              | [[https://www.ncbi.nlm.nih.gov/nuccore/AB239597.1][AB239597]]  |          |                            |          |
+| Phoxinus phoxinus                                    | Elritsa          | Mycket vanlig                         | [[https://www.ncbi.nlm.nih.gov/nuccore/NC_020358.1][NC_020358]] |          |                            |          |
+| Rutilus rutilus                                      | Mört             | Mycket vanlig                         |           | [[https://www.ncbi.nlm.nih.gov/nuccore/KT989767.1][KT989767]] | [[https://www.ncbi.nlm.nih.gov/nuccore/FJ710983.1][FJ710983]]                   | [[https://www.ncbi.nlm.nih.gov/nuccore/KR476966.1][KR476966]] |
+| Scardinius erythrophthalmus                          | Sarv             | Vanlig                                | [[https://www.ncbi.nlm.nih.gov/nuccore/1088478653][NC_031561]] |          |                            |          |
+| Squalius cephalus                                    | Färna            | Ovanlig                               | [[https://www.ncbi.nlm.nih.gov/nuccore/1088476971][NC_031540]] |          |                            |          |
+| Tinca tinca                                          | Sutare           | Vanlig                                | [[https://www.ncbi.nlm.nih.gov/nuccore/119360205][NC_008648]] |          |                            |          |
+| Vimba vimba                                          | Vimma            | Ovanlig                               |           | [[https://www.ncbi.nlm.nih.gov/nuccore/GQ279765.1][GQ279765]] | Finns hos CGI              | [[https://www.ncbi.nlm.nih.gov/nuccore/KR476984.1][KR476984]] |
+| Cobitis taenia                                       | Nissöga          | Ovanlig                               |           | [[https://www.ncbi.nlm.nih.gov/nuccore/AY940214.1][AY940214]] | [[https://www.ncbi.nlm.nih.gov/nuccore/LC146128.1][LC146128]]                   | [[https://www.ncbi.nlm.nih.gov/nuccore/KR476925.1][KR476925]] |
+| Barbatula barbatula                                  | Grönling         | Ovanlig                               | [[https://www.ncbi.nlm.nih.gov/nuccore/827046422][NC_027192]] |          |                            |          |
+| Silurus glanis                                       | Mal              | Sällsynt                              | [[https://www.ncbi.nlm.nih.gov/nuccore/299823648][NC_014261]] |          |                            |          |
+| Osmerus eperlanus                                    | Nors             | Vanlig                                |           | [[https://www.ncbi.nlm.nih.gov/nuccore/EU492321.1][EU492321]] | [[https://www.ncbi.nlm.nih.gov/nuccore/KC441957.1][KC441957]]                   | [[https://www.ncbi.nlm.nih.gov/nuccore/KJ128848.1][KJ128848]] |
+| Coregonus albula                                     | Siklöja          | Vanlig                                |           | [[https://www.ncbi.nlm.nih.gov/nuccore/JN003217.1][JN003217]] |                            | [[https://www.ncbi.nlm.nih.gov/nuccore/KJ128749.1][KJ128749]] |
+| Coregonus maraena                                    | Sik              | Mycket vanlig                         |           | [[https://www.ncbi.nlm.nih.gov/nuccore/HQ960667.1][HQ960667]] |                            | [[https://www.ncbi.nlm.nih.gov/nuccore/KJ128747.1][KJ128747]] |
+| Oncorhynchus clarkii                                 | Strupsnittsöring | Enstaka fynd                          | [[https://www.ncbi.nlm.nih.gov/nuccore/NC_006897.1][NC_006897]] |          |                            |          |
+| Oncorhynchus mykiss                                  | Regnbåge         | Vanlig, endast utplanterad            | [[https://www.ncbi.nlm.nih.gov/nuccore/5835261][NC_001717]] |          |                            |          |
+| Oncorhynchus nerka                                   | Indianlax        | Enstaka fynd                          | [[https://www.ncbi.nlm.nih.gov/nuccore/118722289][NC_008615]] |          |                            |          |
+| Salmo salar                                          | Lax              | Vanlig ffa i strömmande vatten        | [[https://www.ncbi.nlm.nih.gov/nuccore/NC_001960.1][NC_001960]] |          |                            |          |
+| Salmo trutta                                         | Öring            | Mycket vanlig                         | [[https://www.ncbi.nlm.nih.gov/nuccore/NC_024032.1][NC_024032]] |          |                            |          |
+| Salvelinus alpinus                                   | Röding           | Vanlig, ffa i norr                    | [[https://www.ncbi.nlm.nih.gov/nuccore/5835904][NC_000861]] |          |                            |          |
+| Salvelinus fontinalis                                | Bäckröding       | Ovanlig, utplanterat ursprung         | [[https://www.ncbi.nlm.nih.gov/nuccore/NC_000860.1][NC_000860]] |          |                            |          |
+| Salvelinus namaycush                                 | Kanadaröding     | Ovanlig, utplanterat urpsprung        | [[https://www.ncbi.nlm.nih.gov/nuccore/1299048865][NC_036392]] |          |                            |          |
+| Thymallus thymallus                                  | Harr             | Vanlig, men endast i norr             | [[https://www.ncbi.nlm.nih.gov/nuccore/NC_012928.1][NC_012928]] |          |                            |          |
+| Esox lucius                                          | Gädda            | Mycket vanlig                         | [[https://www.ncbi.nlm.nih.gov/nuccore/28881913][NC_004593]] |          |                            |          |
+| Lota lota                                            | Lake             | Mycket vanlig                         | [[https://www.ncbi.nlm.nih.gov/nuccore/25057214][NC_004379]] |          |                            |          |
+| Gasteroteus aculeatus                                | Storspigg        | Vanlig                                | [[https://www.ncbi.nlm.nih.gov/nuccore/NC_027435.1][NC_027435]] |          |                            |          |
+| Pungitius pungitius                                  | Småspigg         | Vanlig                                | [[https://www.ncbi.nlm.nih.gov/nuccore/212725480][NC_011571]] |          |                            |          |
+| Cottus gobio                                         | Stensimpa        | Mycket vanlig                         |           | [[https://www.ncbi.nlm.nih.gov/nuccore/EF416976.1][EF416976]] | [[https://www.ncbi.nlm.nih.gov/nuccore/AB188189.1][AB188189]]                   | [[https://www.ncbi.nlm.nih.gov/nuccore/KR476928.1][KR476928]] |
+| Cottus koshewnikowi                                  | Rysk simpa       | Ovanlig och endast i norr?            |           |          |                            |          |
+| Cottus poecilopus                                    | Bergsimpa        | Vanlig                                | [[https://www.ncbi.nlm.nih.gov/nuccore/317097043][NC_014849]] |          |                            |          |
+| Myoxocephalus quadricornis (Tripgopsis quadricornis) | Hornsimpa        | Ganska vanlig, kallvattenfisk         |           | [[https://www.ncbi.nlm.nih.gov/nuccore/KJ128649.1][KJ128649]] | Under utvecklingen hos CGI | [[https://www.ncbi.nlm.nih.gov/nuccore/KJ128933.1][KJ128933]] |
+| Gymnocephalus cernua                                 | Gärs             | Mycket vanlig                         | [[https://www.ncbi.nlm.nih.gov/nuccore/726972651][NC_025785]] |          |                            |          |
+| Perca fluviatilis                                    | Abborre          | Mycket vanlig                         | [[https://www.ncbi.nlm.nih.gov/nuccore/751868550][NC_026313]] |          |                            |          |
+| Sander lucioperca                                    | Gös              | Vanlig                                | [[https://www.ncbi.nlm.nih.gov/nuccore/761546222][NC_026533]] |          |                            |          |
+|------------------------------------------------------+------------------+---------------------------------------+-----------+----------+----------------------------+----------|
 
 Notera att både för hornsimpa och rysk simpa finns det inga genetiska
 data och den sistnämnda råder viss tveksamhet kring om den ska ses som
@@ -98,17 +98,11 @@ en egen art. Det är troligt att flera av dessa simpor är extremt lika
 varandra på genetisk nivå och eventuellt är det inte fixerade
 skillnader mellan arterna.
  
-Notera att frekvens är inte baserade på undersökningar utan mer ett
-försök till sammanställning av den kunskap som finns om olika
-arter. Tittar man mer i detalj på distribution of frekvens av arter
-över olika delar kan man skapa goda kunskaper om vilka arter man
-förväntar sig att hitta från vattenprover. Det är till exempel inte så
-troligt med stora mängder harr i vatten från skåne.
-
-
-
+Frekvens är inte baserade på undersökningar utan mer ett försök till
+sammanställning av den kunskap som finns om olika arter. Tittar man
+mer i detalj på distribution of frekvens av arter över olika delar kan
+man skapa goda kunskaper om vilka arter man förväntar sig att hitta
+från vattenprover. Det är till exempel inte så troligt med stora
+mängder harr i vatten från skåne.
 
 *** Ekologisk information
-
-** Saltvattenarter
-
