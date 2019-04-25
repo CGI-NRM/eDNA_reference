@@ -1,4 +1,4 @@
-* Fiskarter som finns i svenska vatten
+* Fiskarter som finns i svenska sötvatten
 För att effektivt kunna artbestämma fiskarter från sekvensdata är det
 enkelt att ha en databas med alla arter som förekommer i svenska
 vatten. Denna tabell innehåller de sötvattensarter som finns
