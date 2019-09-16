@@ -92,17 +92,14 @@ bakhuvudet.
 | Sander lucioperca                                    | Gös              | Vanlig                                | [[https://www.ncbi.nlm.nih.gov/nuccore/761546222][NC_026533]] |          |                            |          |
 |------------------------------------------------------+------------------+---------------------------------------+-----------+----------+----------------------------+----------|
 
-Notera att både för hornsimpa och rysk simpa finns det inga genetiska
-data och den sistnämnda råder viss tveksamhet kring om den ska ses som
-en egen art. Det är troligt att flera av dessa simpor är extremt lika
-varandra på genetisk nivå och eventuellt är det inte fixerade
+Notera att både för rysk simpa finns det inga genetiska
+data och det råder viss tveksamhet kring om den ska ses som
+en egen art. Det kan vara så att arten/varianten är extremt lik andra arter både till utseende och på genetisk nivå och eventuellt är det inte fixerade
 skillnader mellan arterna.
  
-Frekvens är inte baserade på undersökningar utan mer ett försök till
+Informationen under rubriken frekvens är inte baserade på undersökningar utan mer ett försök till
 sammanställning av den kunskap som finns om olika arter. Tittar man
-mer i detalj på distribution of frekvens av arter över olika delar kan
-man skapa goda kunskaper om vilka arter man förväntar sig att hitta
-från vattenprover. Det är till exempel inte så troligt med stora
+mer i detalj på distribution av arter över olika delar av landet kan
+man skapa goda förutsättningar för att korrekt kunna analysera och tolka resultat från
+eDNA-prover. Det är till exempel inte så troligt med stora
 mängder harr i vatten från skåne.
-
-*** Ekologisk information
