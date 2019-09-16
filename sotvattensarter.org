@@ -92,10 +92,14 @@ bakhuvudet.
 | Sander lucioperca                                    | Gös              | Vanlig                                | [[https://www.ncbi.nlm.nih.gov/nuccore/761546222][NC_026533]] |          |                            |          |
 |------------------------------------------------------+------------------+---------------------------------------+-----------+----------+----------------------------+----------|
 
+Alla prover som finns hos CGI, men inte i publika databaser är under processning för att göras publika. Då de finns mycket felaktiga artbestämningar och felaktiga sekvenser i publika databaser har vi sekvenserat om ett antal arter från nya artbestämda exemplar från naturhistoriska riksmuseets samlingar och ämnar så snart allt är klart uppdatera genbank med sekvenser från voucher exemplar.
+
 Notera att både för rysk simpa finns det inga genetiska
 data och det råder viss tveksamhet kring om den ska ses som
 en egen art. Det kan vara så att arten/varianten är extremt lik andra arter både till utseende och på genetisk nivå och eventuellt är det inte fixerade
 skillnader mellan arterna.
+
+
  
 Informationen under rubriken frekvens är inte baserade på undersökningar utan mer ett försök till
 sammanställning av den kunskap som finns om olika arter. Tittar man
